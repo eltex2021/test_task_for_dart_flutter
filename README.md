@@ -1,6 +1,6 @@
 # test_task_for_dart_flutter
 
-A new Flutter application.
+Тествое задание Flutter developer Junior
 
 ## Getting Started
 
